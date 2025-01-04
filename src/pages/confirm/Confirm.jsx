@@ -5,11 +5,11 @@ import Confirmation from "../../components/confirmation/Confirmation";
 
 const Confirm = () => {
   return (
-    <>
+    <div className="small-page">
       <Header />
       <Confirmation />
       <Footer />
-    </>
+    </div>
   );
 };
 
