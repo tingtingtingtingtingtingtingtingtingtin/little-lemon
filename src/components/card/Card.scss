@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 10rem;
+  height: 15rem;
+  padding: 2rem;
+}
+
+.image {
+  display: inline;
+  padding: 1rem;
+  width: 100%;
+}
+
+.text-box {
+  color: #333333;
+}
+
+a {
+  font-weight: bold;
+  color: #333333;
+}
